@@ -1,6 +1,8 @@
-package hello;
+package mohamed;
 
 public class HelloWorld {
-	System.out.println("Hello Samir");
+	public static void main(String[] args) {
+		
+	}
 
 }
